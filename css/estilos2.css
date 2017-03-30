@@ -1,0 +1,21 @@
+body{
+	background-color: lightblue;
+
+}
+header, nav, section, footer{
+	border: 1px solid black;
+	margin: 10px;
+}
+header {
+	background-color: green;
+}
+nav{
+	background-color: brown;
+}
+section{
+	background-color: cyan;
+
+}
+footer{
+	background-color: yellow;
+}
